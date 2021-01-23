@@ -6,6 +6,7 @@ The included scripts automatically sets up a launchd job to cache all your conda
 ## Requirements
 - macOS
 - Conda (You must have a $CONDA_PREFIX environment variable)
+- If your new repository is private, your Github credentials must be stored somehow
 
 ## Setup
 - If you  __fork__ this repository to your Github profile
